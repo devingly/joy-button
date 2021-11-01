@@ -1,6 +1,10 @@
 {
   "files.associations": {
     "*.h": "cpp",
-    "string": "cpp"
-  }
+    "string": "cpp",
+    "*.tcc": "cpp",
+    "fstream": "cpp"
+  },
+  "python.pythonPath": "/usr/local/bin/python3",
+  "idf.port": "/dev/cu.usbserial-0001"
 }
